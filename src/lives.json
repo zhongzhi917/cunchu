@@ -1,43 +1,53 @@
 {
   "lives": [
     {
+      "name": "IPTV每日凌晨更新"，
+      "url": "https://ghp.keleyaa.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8"，
+      "type": 0
+    },
+  {
+      "name": "直播（每6小时更新）"，
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u"，
+      "type": 0
+    },
+    {
+      "name": "IPV4"，
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"，
+      "type": 0
+    },
+  {
+      "name": "世界直播",
+      "url": "https://ghp.keleyaa.com/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"，
+      "type": 0
+    },
+  {
       "name": "可用",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
-      "type": 0
-    },
-  {
-      "name": "123",
-      "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
-      "type": 0
-    },
-  {
-      "name": "IPTV每日凌晨更新",
-      "url": "http://ghp.keleyaa.com/raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u"，
       "type": 0
     },
 {
-      "name": "直播（每6小时更新）",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+      "name": "TXT",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
       "type": 0
     },
   {
-      "name": "vbskycn/tv",
-      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "name": "vbskycn",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u"，
       "type": 0
     },
     {
-      "name": "kimwang1978/tv",
-      "url": "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.m3u",
+      "name": "kimwang1978",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.m3u"，
       "type": 0
     },
     {
-      "name": "Guovin/tv",
-      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "name": "Guovin",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"，
       "type": 0
     },
     {
-      "name": "mytv-android/tv",
-      "url": "https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u",
+      "name": "mytv-android",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u"，
       "type": 0
     }
   ]
