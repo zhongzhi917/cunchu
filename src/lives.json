@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "IPTV每日凌晨更新",
-      "url": "https://ghp.keleyaa.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8",
       "type": 0
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "name": "世界直播",
-      "url": "https://ghp.keleyaa.com/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
       "type": 0
     },
     {
