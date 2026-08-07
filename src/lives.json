@@ -59,9 +59,9 @@
       "name": "江苏电信",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/main/m3u/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.m3u",
       "type": 0
-    },
+    }，
     {
-      "name": "河南联通",
+      "name": "河南联通"，
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/main/m3u/%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A.m3u",
       "type": 0
     },
