@@ -1,54 +1,54 @@
 {
-"lives":[
-{
-"name":"IPTV每日凌晨更新",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8",
-"type":0
-},
-{
-"name":"直播（每6小时更新）",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
-"type":0
-},
-{
-"name":"咪咕源",
-"url":"https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u",
-"type":0
-},
-{
-"name":"IPV4",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-"type":0
-},
-{
-"name":"世界直播",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"，
-"type":0
-},
-{
-"name":"可用",
-"url":"https://gh-proxy.org/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
-"type":0
-},
-{
-"name":"vbskycn"，
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
-"type":0
-},
-{
-"name":"kimwang1978",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.m3u",
-"type":0
-},
-{
-"name":"Guovin",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-"type":0
-},
-{
-"name":"各省卫视",
-"url":"https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u",
-"type":0
-}
-]
+    "lives": [
+        {
+            "name": "IPTV每日凌晨更新",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8",
+            "type": 0
+        },
+        {
+            "name": "直播（每6小时更新）",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+            "type": 0
+        },
+        {
+            "name": "咪咕源",
+            "url": "https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u",
+            "type": 0
+        },
+        {
+            "name": "IPV4",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "type": 0
+        },
+        {
+            "name": "世界直播",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+            "type": 0
+        },
+        {
+            "name": "可用",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
+            "type": 0
+        },
+        {
+            "name": "vbskycn",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+            "type": 0
+        },
+        {
+            "name": "kimwang1978",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.m3u",
+            "type": 0
+        },
+        {
+            "name": "Guovin",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+            "type": 0
+        },
+        {
+            "name": "各省卫视",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u",
+            "type": 0
+        }
+    ]
 }
